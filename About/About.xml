@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Anima Obelisk (Continued)</name>
+  <packageId>Mlie.AnimaObelisk</packageId>
+  <author>DimonSever000</author>
+  <url>https://github.com/emipa606/AnimaObelisk</url>
+  <supportedVersions>
+    <li>1.3</li>
+    <li>1.4</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+    <li>
+      <packageId>Ludeon.Rimworld.Royalty</packageId>
+      <displayName>Rimworld Royalty</displayName>
+      <downloadUrl>https://store.steampowered.com/app/1149640/RimWorld__Royalty/</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>Ludeon.Rimworld.Royalty</li>
+  </loadAfter>
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+Update of DimonSever000s mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=2614248835
+
+[img]https://i.imgur.com/pufA0kM.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/AnimaObelisk][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+[img]https://i.imgur.com/NjjdkT6.png[/img]
+
+[img]https://i.imgur.com/aW9pXxw.png[/img]
+
+[img]https://i.imgur.com/9NeuDhy.png[/img]
+
+For all your psyfocus storage needs, a battery for anima! The obelisk is a new meditation object, charging it with psyfocus instead of your pawn receiving it. You're able to withdraw from the obelisk, and meditate to fill it up, while being able to toggle between storage mode and meditation mode. Fancy effects and animations included!
+
+Any psycaster can meditate at the obelisk, but only assigned pawns will fill up the obelisk instead of their own psyfocus bar. You can assign pawns for who can both withdraw and deposit using the buttons when selecting the obelisk. Pawns will autonomously fill their psifocus instead of meditating if they're assigned to take from the obelisk, or you can directly tell them to take from it. Up to 10 pawns can be assigned to a single obelisk, works flawlessly with multiple obelisks as well.
+
+100% of a pawns psyfocus bar is 1.0 unit, by default the Anima Obelisk will be able to hold 10, so you can store up to 10 psyfocus bars worth, which is adjustable in the settings.
+
+The more charged up the obelisk is, the brighter it will glow. The runes on the obelisk even spell out PSYFOCUS! Don't forget about the pulsing rune circle too; and the more meditating pawns, the more psyorbs that will flicker about!
+
+"With training I hone my mind
+With my mind I gain power
+With power i control the universe"
+
+
+[img]https://i.imgur.com/p7GY2ow.png[/img]
+
+Q: Why can't my colonist charge the obelisk?
+A: If their psyfocus is full, they wont meditate; cast some spells or wait for it to decay over time, and make sure they're assigned.
+
+Q: Why does the obelisk cost so much to build?
+A: It's not meant to be used too early in the game as it can be pretty OP, the decently high cost makes it a little more balanced, especially if you want to use multiple.
+
+Q: Dependencies?
+A: Harmony &amp;amp; Royalty DLC
+
+Q: CE compatible?
+A: Yes!
+
+Q: Performance impact?
+A: Practically none
+
+Q: Need to start a new game?
+A: Nope, add it any time
+
+
+-
+
+[h1]Inspiration:[/h1]
+The idea was to have one colonist meditate all the time and have everyone else take psyfocus from the obelisk instead of them meditating themselves, that way they don't have to waste time meditating every day so they can concentrate on the more important jobs.
+
+
+[h1]Translations:[/h1]
+English &amp;amp; Russian - Supported in mod already
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2618706313]French[/url] 
+
+[img]https://i.imgur.com/jb9MPDb.png[/img]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1678847247] Graphics Settings - Redefine RimWorld[/url] (Previously Graphics Settings+)
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2448505614] No Natural Psyfocus Decrease[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2570726278] No lower Psyfocus limit[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2555271662] Blindsight - Truesight[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2555668702] Party Hard - Psycast Rituals[/url]
+
+[img]https://i.imgur.com/IiadRPu.png[/img]
+
+No issues at the moment, feel free to post any problems you may be having!
+
+
+[img]https://i.imgur.com/fDRcf2L.png[/img]
+
+Sep 29: Released!
+
+[img]https://i.imgur.com/IkSN7lk.png[/img]
+
+[url=https://steamcommunity.com/id/ChainOfLightning/]Frank[/url]: Concept and Ideas
+[url=https://www.patreon.com/kaiser_dmitry]DimonSever000:[/url] Coding, idea refining and implementation
+[url=https://www.patreon.com/halno]Halno:[/url] The amazing Obelisk art, Icons, steam images, and idea collaboration
+
+
+[url=https://discord.gg/7befJWr9xS][img]https://i.imgur.com/cfoFEMA.png[/img][/url]
+Lots of awesome people over there, go check it out!
+
+
+[img]https://imgur.com/uWSw8oN.gif[/img]
+	
+[img]https://i.imgur.com/PwoNOj4.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]</description>
+</ModMetaData>
