@@ -5,7 +5,7 @@
 Update of DimonSever000s mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2614248835
 
-![Image](https://i.imgur.com/pufA0kM.png)
+![Image](https://i.imgur.com/CN9Rs5X.png)
 
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
@@ -114,3 +114,4 @@ Lots of awesome people over there, go check it out!
 -  If you have the solution for a problem, please post it to the GitHub repository.
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2900123392]Last updated 2022-12-11

@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>65feaa3a-5883-41c6-9a92-d57d7d514265</ID>
   <ModName>Anima Obelisk (Continued)</ModName>
-  <Version>1.4.0</Version>
+  <Version>1.4.1</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,7 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-
